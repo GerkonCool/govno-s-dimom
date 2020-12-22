@@ -22,3 +22,4 @@ while True:
         print(counter)
     elif result == govno:
         print("Слово: ", result, " понадобилось попыток: ", counter)
+        exit()
